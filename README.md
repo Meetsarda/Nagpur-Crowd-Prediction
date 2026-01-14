@@ -45,5 +45,11 @@ transport authorities understand overcrowding patterns and take proactive action
 - Mobile app integration
 - Multi-city scalability
 
+## Journey Insights Feature
+- Predicts whether crowd will increase or decrease during the journey
+- Uses stop-level passenger flow heuristics
+- Integrated with OCR-based ticket detection
+
+
 ## Author
 Meet Sarda
